@@ -6,13 +6,13 @@
 
 | 目录名称      | 项目名称             | 开发周期 | 启动指令 |
 | ------------- | -------------------- | -------- | -------- |
-| Mobile waimai | 绿壶包饭外卖(移动端) | 3天      |  yarn serve  |
+| Mobile waimai | 绿壶包饭外卖(移动端) | 3天      |  yarn run start  |
 | PC waimai     | 绿壶包饭外卖(PC端)   | 3天      |          |
 | houtai        | 后台管理系统         | 4天      |          |
 
 ## 启动项目
 
-启动项目: yarn serve
+启动项目: yarn run start
 
 测试项目:
 
