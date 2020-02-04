@@ -68,6 +68,10 @@
 
 ### 范子鑫开发模块效果图
 
+### 效果图
+
+![](https://github.com/Enclosed123/Music/blob/fanfan/one.png)
+
 ### 包寒开发模块效果图
 
 
