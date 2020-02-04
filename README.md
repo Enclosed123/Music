@@ -66,6 +66,8 @@
 
 ### 律野开发模块效果图
 
+![](https://github.com/Enclosed123/Music/blob/master/img/01.png)
+
 ### 范子鑫开发模块效果图
 
 ### 效果图
